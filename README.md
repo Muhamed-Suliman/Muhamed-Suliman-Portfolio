@@ -2,7 +2,7 @@
 
 ### Data Engineer | ETL Developer | Data Quality | Data Governance | Microsoft Fabric
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhamed-suliman/)](https://www.linkedin.com/in/muhamed-suliman/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muhamed-suliman/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-success)](YOUR_PORTFOLIO_LINK)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](Resume/Muhamed_Suliman_CV.pdf)
