@@ -2,11 +2,11 @@
 
 ### Data Engineer | ETL Developer | Data Quality | Data Governance | Microsoft Fabric
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhamed-suliman/))
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-success)](YOUR_PORTFOLIO_LINK)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](Resume/Muhamed_Suliman_CV.pdf)
-[![Email](https://img.shields.io/badge/Email-Contact-orange)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-orange)](mailto:Muhamed.Izzaldin@Gmail.com)
 
 ---
 
@@ -195,7 +195,7 @@ My goal is to build scalable, high-performance, and trusted data solutions while
 
 ## 📫 Contact
 
-- **LinkedIn:** [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhamed-suliman/)
+- **LinkedIn:** [Muhamed Suliman](https://www.linkedin.com/in/muhamed-suliman/)
 - **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
 - **Email:** Muhamed.Izzaldin@Gmail.com
 - **Resume:** Resume/Muhamed_Suliman_CV.pdf
