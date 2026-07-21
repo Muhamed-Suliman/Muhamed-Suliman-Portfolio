@@ -195,9 +195,9 @@ My goal is to build scalable, high-performance, and trusted data solutions while
 
 ## 📫 Contact
 
-- **LinkedIn:** YOUR_LINKEDIN_URL
+- **LinkedIn:** [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhamed-suliman/)
 - **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **Email:** YOUR_EMAIL
+- **Email:** Muhamed.Izzaldin@Gmail.com
 - **Resume:** Resume/Muhamed_Suliman_CV.pdf
 
 ---
